@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+}
+
+.state-form {
+  padding-top: 1.2em;
+  padding-bottom: 1.2em;
+  margin-bottom: 1.2em;
+  border-top: 1px solid #ececec;
+  border-bottom: 1px solid #ececec;
+}
+
+.liquid {
+  padding: 4px 8px;
+  background-color: #d0eef9;
+  border-radius: 6px;
+}
+
+.liquid-prop {
+  border: 1px solid rgba(255, 0, 0, 0.322);
+}
+.liquid-if {
+  border: 1px solid rgba(0, 0, 255, 0.356);
+}
+.tooltip-menu {
+  display: flex;
+  align-items: center;
+}
